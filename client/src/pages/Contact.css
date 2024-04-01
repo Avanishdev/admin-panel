@@ -1,0 +1,7 @@
+.form-content{
+    display: flex;
+    flex-direction: column;
+}
+/* .form-button{
+    width: 40%;
+} */
